@@ -5,12 +5,10 @@
 
 ```js
 const brenda = {
-  Code: 'JavaScript', 'Typescript', 'HTML', 'CSS', 'Angular, 'React', 'PHP', 'MySQL', 'Node.js', 'C', 'C#'
-}
-```
-
-const brenda = {
   code: [Javascript, Typescript, HTML, CSS, PHP, C, C#],
   tools: [React, Angular, Node, Vue, MySQL],
   
 }
+```
+
+
