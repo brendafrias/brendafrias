@@ -1,6 +1,6 @@
 ### Hi, I'm Brenda Frias 👋
+![gif-godigo](https://user-images.githubusercontent.com/47353453/97702693-2dbd7000-1a8e-11eb-8fca-e6225a47757b.gif)
 
-![gif-dino1](https://user-images.githubusercontent.com/47353453/97704116-91e13380-1a90-11eb-8075-25493fce1d38.png)
 
 
 ```js
