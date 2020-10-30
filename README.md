@@ -1,7 +1,5 @@
 <h2> Hi, I'm Brenda Frias 👋 </h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-![gif-godigo](https://user-images.githubusercontent.com/47353453/97702693-2dbd7000-1a8e-11eb-8fca-e6225a47757b.gif)
-
-
+###![gif-godigo](https://user-images.githubusercontent.com/47353453/97702693-2dbd7000-1a8e-11eb-8fca-e6225a47757b.gif)
 
 ```js
 const brenda = {
