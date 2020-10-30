@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I'm Brenda Frias 👋
 
 ![gif-godigo](https://user-images.githubusercontent.com/47353453/97702693-2dbd7000-1a8e-11eb-8fca-e6225a47757b.gif)
 
+```js
+const brenda = {
+  lenguajes: 'JavaScript', 'PHP', 'C#'
+};
+```
 <!--
 **brendafrias/brendafrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
