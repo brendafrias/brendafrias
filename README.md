@@ -11,5 +11,4 @@ const brenda = {
   
 }
 ```
-
-
+![gif-pacman](https://user-images.githubusercontent.com/47353453/97703839-11223780-1a90-11eb-9338-6e409a00c5cc.gif)
